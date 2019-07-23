@@ -1,0 +1,27 @@
+/*main.css*/
+
+body {
+	background:pink;
+	font-family: 'Marvel', sans-serif;
+}
+h1 {
+color:black;
+}
+
+p{
+color:navy;
+color:bold;
+text-align: center;
+}
+
+ol
+	{font-weight: bold;
+}
+a {
+	color:navy;
+	text-decoration: none;}
+nav
+{border-style: dotted;
+text-align: center}
+h1
+{text-align: center}

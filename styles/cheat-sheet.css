@@ -1,0 +1,26 @@
+/*cheat-sheet.css*/
+/*body is the selecter to change the style
+of the body section on HTML file*/
+body{
+	background:LightPink; /*background is a 
+						property to change
+						the background color
+						and yellow is the property
+						value*/
+/*there are 140 color names
+https://www.w3schools.com/colors/colors_names.asp */
+}
+/*heading is a class selector that can be 
+applied to several element on my html page*/
+.heading {
+	color:brown
+}
+/*my paragraph is an iv selector that
+has styling that applies only to one
+tag on my html. The tag id should be 
+the sae as this selector */
+#my_paragraph {
+	text-align: right;
+	text-decoration: underline;
+	font-weight: bold;
+}
