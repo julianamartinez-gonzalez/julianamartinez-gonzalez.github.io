@@ -25,3 +25,22 @@ nav
 text-align: center}
 h1
 {text-align: center}
+#img-float
+	{float:left;
+	margin:20px;
+	width:150px;
+	height: 250px
+}
+#img-center
+	{;
+	}
+.p-class
+	{margin:35px;
+	padding:25px;
+	}
+#div-float{
+	overflow: auto;
+	border:solid 5px green;
+	background: lightblue;
+	margin:20px;
+}
